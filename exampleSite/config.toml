@@ -1,4 +1,4 @@
-baseURL = "http://thehappypantsranch.netlify.com"
+baseURL = "https://thehappypantsranch.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
